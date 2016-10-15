@@ -1,0 +1,4 @@
+[submodule "ansible-hadoop-playbook"]
+	path = ansible-hadoop-playbook
+	url = git@github.com:purbon/ansible-hadoop-playbook.git
+	branch = master
