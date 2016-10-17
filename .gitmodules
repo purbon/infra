@@ -2,3 +2,7 @@
 	path = ansible-hadoop-playbook
 	url = git@github.com:purbon/ansible-hadoop-playbook.git
 	branch = master
+[submodule "ansible-kafka-playbook"]
+	path = ansible-kafka-playbook
+	url = git@github.com:purbon/ansible-kafka-playbook.git
+	branch = master
